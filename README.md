@@ -14,6 +14,10 @@ Automate a site both Admin and user credentials
 - **Allure Report** (for generating test reports)
 - [Other technologies/libraries used]
 
+## Gradle Report
+![image](https://github.com/user-attachments/assets/707c6ca1-1423-43d9-a910-b38523620187)
+
+
 ## Prerequisites
 Make sure you have the following installed:
 - [JDK 8+](https://www.oracle.com/java/technologies/javase-jdk8-downloads.html)
