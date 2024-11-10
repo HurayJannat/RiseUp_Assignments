@@ -1,0 +1,26 @@
+[
+  {
+    "firstname": "Ranee",
+    "password": "123Ranee",
+    "phoneNumber": "9879843386",
+    "address": "Philippines",
+    "email": "diptyoffsKautzer@gmail.com",
+    "lastname": "Kautzer"
+  },
+  {
+    "firstname": "Ron",
+    "password": "123Ron",
+    "phoneNumber": "10260057887",
+    "address": "Sierra Leone",
+    "email": "diptyoffsFranecki@gmail.com",
+    "lastname": "Franecki"
+  },
+  {
+    "firstname": "Mimi",
+    "password": "123Mimi",
+    "phoneNumber": "3813667907",
+    "address": "Turkmenistan",
+    "email": "diptyoffsFahey@gmail.com",
+    "lastname": "Fahey"
+  }
+]

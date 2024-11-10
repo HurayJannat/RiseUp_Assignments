@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Orange HRM DEMO">
+    <test name="Admin can Register">
+        <classes>
+            <class name="testrunner.RegistrationTestRunner">
+
+            </class>
+        </classes>
+    </test>
+    <test name="Admin can Login">
+        <classes>
+            <class name="testrunner.LoginTestRunner">
+
+            </class>
+        </classes>
+    </test>
+
+    <test name="Admin can see add item">
+        <classes>
+            <class name="testrunner.DashboardTestRunner">
+
+            </class>
+        </classes>
+    </test>
+
+    <test name="Admin can profile image">
+        <classes>
+            <class name="testrunner.ProfileTestRunner">
+
+            </class>
+        </classes>
+    </test>
+
+
+
+
+
+
+
+</suite>
